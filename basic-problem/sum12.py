@@ -1,3 +1,4 @@
+# Question: Create a function that checks whether a number is even.
 def add_even_checker(a):
     if a%2==0:
         print(a,"is a even number")

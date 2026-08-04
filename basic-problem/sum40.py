@@ -1,3 +1,4 @@
+# Question: Check whether a string is a palindrome without using slicing.
 letter = "sir"
 rev = ""
 for i in letter:

@@ -1,3 +1,4 @@
+# Question: Print the first six numbers of the Fibonacci sequence.
 a = 0
 b = 1
 print(a)

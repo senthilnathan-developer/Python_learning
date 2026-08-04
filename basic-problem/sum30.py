@@ -1,3 +1,4 @@
+# Question: Add two numbers and check whether their sum is even or odd.
 num1 = 9
 num2 = 2
 num3 = num1 +num2

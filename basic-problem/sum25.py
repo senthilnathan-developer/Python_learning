@@ -1,3 +1,4 @@
+# Question: Count the vowels in the string "senthilnathan".
 letter = 'senthilnathan'
 vowels = "aeiouAEIOU"
 count = 0

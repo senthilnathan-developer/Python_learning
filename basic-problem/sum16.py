@@ -1,3 +1,4 @@
+# Question: Create a function that counts the consonants in a string.
 def count_consonent(word):
     count =0
     consonent = 'bcdfghjklmnpqrstvwxyzBCDFGHJKLMNPQRSTVWXYZ'

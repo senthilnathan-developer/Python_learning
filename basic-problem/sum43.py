@@ -1,3 +1,4 @@
+# Question: Find the second-largest number in a list.
 number = [12,34,56,78]
 largest = number[0]
 second_largest = number[0]
@@ -13,5 +14,4 @@ for i in number:
         second_largest = i
 
 print(second_largest)
-
 

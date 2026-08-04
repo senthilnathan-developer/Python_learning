@@ -1,3 +1,4 @@
+# Question: Print the first 10 numbers of the Fibonacci sequence.
 number = 10
 
 a = 0

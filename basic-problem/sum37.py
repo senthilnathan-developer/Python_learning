@@ -1,3 +1,4 @@
+# Question: Reverse a string without using slicing.
 # str = "senthil"
 
 # print(str[::-1])
